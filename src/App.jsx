@@ -1,11 +1,9 @@
-import { useEffect, useState } from 'react'
+import Discoloration from './components/Discoloration/Discoloration'
 function App() {
-  useEffect(() => {
-    console.log('hi')
-  })
+
   return (
     <>
-      <h1>hiii</h1>
+      
     </>
   )
 }
