@@ -1,7 +1,12 @@
-
+import { useEffect, useState } from 'react'
 function App() {
+  useEffect(() => {
+    console.log('hi')
+  })
   return (
-    <>vvdvdv</>
+    <>
+      <h1>hiii</h1>
+    </>
   )
 }
 
